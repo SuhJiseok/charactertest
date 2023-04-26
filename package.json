@@ -2,7 +2,7 @@
   "name": "charactertest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suhjiseok.github.io/charactertest",
+  "homepage": "https://suhjiseok.github.io/charactertest/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
